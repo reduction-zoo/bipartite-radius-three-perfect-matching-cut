@@ -1,0 +1,5 @@
+{"auxiliary_count": 0, "vertices": 8, "optional_edges": 12, "result": "unsat"}
+{"auxiliary_count": 1, "vertices": 10, "optional_edges": 20, "result": "unsat"}
+{"auxiliary_count": 2, "vertices": 12, "optional_edges": 30, "result": "unsat"}
+{"auxiliary_count": 3, "vertices": 14, "optional_edges": 42, "result": "unsat"}
+Completed finite family; no reduction or general impossibility claim.

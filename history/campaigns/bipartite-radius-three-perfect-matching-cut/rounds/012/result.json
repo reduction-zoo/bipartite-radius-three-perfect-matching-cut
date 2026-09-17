@@ -1,0 +1,107 @@
+[
+  {
+    "mask": 1,
+    "center_eccentricity": 4,
+    "radius": 3,
+    "witnesses": 6,
+    "intact_witnesses": 6
+  },
+  {
+    "mask": 2,
+    "center_eccentricity": 4,
+    "radius": 3,
+    "witnesses": 6,
+    "intact_witnesses": 6
+  },
+  {
+    "mask": 3,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 4,
+    "center_eccentricity": 4,
+    "radius": 3,
+    "witnesses": 6,
+    "intact_witnesses": 6
+  },
+  {
+    "mask": 5,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 6,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 7,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 0,
+    "intact_witnesses": 0
+  },
+  {
+    "mask": 8,
+    "center_eccentricity": 4,
+    "radius": 3,
+    "witnesses": 6,
+    "intact_witnesses": 6
+  },
+  {
+    "mask": 9,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 10,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 11,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 0,
+    "intact_witnesses": 0
+  },
+  {
+    "mask": 12,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 2,
+    "intact_witnesses": 2
+  },
+  {
+    "mask": 13,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 0,
+    "intact_witnesses": 0
+  },
+  {
+    "mask": 14,
+    "center_eccentricity": 3,
+    "radius": 3,
+    "witnesses": 0,
+    "intact_witnesses": 0
+  },
+  {
+    "mask": 15,
+    "center_eccentricity": 2,
+    "radius": 2,
+    "witnesses": 0,
+    "intact_witnesses": 0
+  }
+]

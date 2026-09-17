@@ -1,0 +1,4 @@
+Uninstalled 1 package in 1ms
+Installed 1 package in 2ms
+PASS: 6 source cases, 71 bipartite radius<=3 atlas graphs through order seven, four faulty executable fixtures and one valid control
+Z3 5.1.0, NetworkX 3.6.1; no timeouts

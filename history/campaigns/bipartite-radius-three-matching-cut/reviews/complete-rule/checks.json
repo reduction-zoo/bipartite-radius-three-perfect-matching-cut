@@ -1,0 +1,143 @@
+{
+  "local": [
+    {
+      "block": "binary",
+      "opposite_anchors": false,
+      "assignments_examined": 256,
+      "legal_assignments": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "block": "binary",
+      "opposite_anchors": true,
+      "assignments_examined": 256,
+      "legal_assignments": [
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "block": "selector",
+      "opposite_anchors": false,
+      "assignments_examined": 256,
+      "legal_assignments": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "block": "selector",
+      "opposite_anchors": true,
+      "assignments_examined": 256,
+      "legal_assignments": [
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    }
+  ],
+  "full_outputs": [
+    {
+      "name": "edge",
+      "vertices": 188,
+      "edges": 423,
+      "eccentricity_zero": 3,
+      "decision": "sat",
+      "recoveries": 2,
+      "nonconstant_same_reservoir_query": "unsat",
+      "invalid_projection_query": "unsat"
+    },
+    {
+      "name": "three_vertex_path",
+      "vertices": 356,
+      "edges": 809,
+      "eccentricity_zero": 3,
+      "decision": "sat",
+      "recoveries": 2,
+      "nonconstant_same_reservoir_query": "unsat",
+      "invalid_projection_query": "unsat"
+    },
+    {
+      "name": "biclique_two_three",
+      "vertices": 2004,
+      "edges": 4597,
+      "eccentricity_zero": 3,
+      "decision": "unsat",
+      "recoveries": 0,
+      "nonconstant_same_reservoir_query": "unsat",
+      "invalid_projection_query": "unsat"
+    }
+  ],
+  "invalid_inputs": [
+    "radius_five_path",
+    "boolean_size",
+    "duplicate_edge",
+    "odd_cycle",
+    "disconnected",
+    "huge_size"
+  ],
+  "singleton_no": true
+}

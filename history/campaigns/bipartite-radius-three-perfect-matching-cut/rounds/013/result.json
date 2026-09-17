@@ -1,0 +1,344 @@
+[
+  {
+    "mask": 1,
+    "attachments": [
+      1
+    ],
+    "eccentricity": 4,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": true
+  },
+  {
+    "mask": 2,
+    "attachments": [
+      2
+    ],
+    "eccentricity": 4,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": true
+  },
+  {
+    "mask": 3,
+    "attachments": [
+      1,
+      2
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 4,
+    "attachments": [
+      4
+    ],
+    "eccentricity": 4,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": true
+  },
+  {
+    "mask": 5,
+    "attachments": [
+      1,
+      4
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 6,
+    "attachments": [
+      2,
+      4
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 7,
+    "attachments": [
+      1,
+      2,
+      4
+    ],
+    "eccentricity": 3,
+    "relation": [],
+    "full_nae": false
+  },
+  {
+    "mask": 8,
+    "attachments": [
+      7
+    ],
+    "eccentricity": 4,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": true
+  },
+  {
+    "mask": 9,
+    "attachments": [
+      1,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 10,
+    "attachments": [
+      2,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 11,
+    "attachments": [
+      1,
+      2,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [],
+    "full_nae": false
+  },
+  {
+    "mask": 12,
+    "attachments": [
+      4,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "full_nae": false
+  },
+  {
+    "mask": 13,
+    "attachments": [
+      1,
+      4,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [],
+    "full_nae": false
+  },
+  {
+    "mask": 14,
+    "attachments": [
+      2,
+      4,
+      7
+    ],
+    "eccentricity": 3,
+    "relation": [],
+    "full_nae": false
+  },
+  {
+    "mask": 15,
+    "attachments": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "eccentricity": 2,
+    "relation": [],
+    "full_nae": false
+  }
+]

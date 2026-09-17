@@ -1,0 +1,7 @@
+{
+  "auxiliary_count": 2,
+  "far_count": 2,
+  "vertices": 16,
+  "optional_edges": 56,
+  "result": "unsat"
+}

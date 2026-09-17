@@ -1,0 +1,16 @@
+The initial prepared candidate run was manually interrupted while solving its
+integer-arithmetic encoding. It produced no completed suite result. A one-second
+native process sample found the stack inside Z3_solver_check_assumptions and
+smt::context::search; see prepared-sample.txt. After SIGINT, Z3 returned unknown
+and the checker's explicit status assertion failed. Exit code: 1.
+
+Actual terminal endpoint:
+  witnesses = solve(target, True, 4)
+  assert status == z3.sat, status
+AssertionError: unknown
+
+This is interrupted computation, not mathematical NO or a candidate failure.
+The original arithmetic checker is preserved in arithmetic-check.py. To rerun
+that snapshot, place it beside work/cases.json in a temporary directory.
+The active checker now uses Z3's native PbLe for the same Boolean cardinality
+predicate. No wall-clock deadline, solver timeout or acceptance change was added.

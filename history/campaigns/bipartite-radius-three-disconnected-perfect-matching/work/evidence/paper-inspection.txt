@@ -1,0 +1,10 @@
+2026-09-15. Applied how-to-technical-writing and its final language/notation pass.
+Typst 0.15.1: final compilation exit 0, no diagnostics. Earlier editorial compile
+errors (bigvee, literal true in math, notin) were corrected to native Typst syntax;
+these were not algorithm/proof failures or new rounds.
+Eight PDF pages inspected; changed pages 3-8 reinspected after keeping Lemma 4
+together. Checked formula scopes, references, graph labels, matching-edge display,
+table/code layout and clipping. Three exact vector figures; deliberately omitted
+edges are explained in captions. Figure adjacency counts and the seven-edge
+reservoir matching were checked by rounds/001/figures.py.
+No mathematical or executable changes after independent review.

@@ -1,0 +1,2 @@
+{"constructions": 9, "queries": 51, "maximum_vertices": 64}
+PASS: all intended wire assignments and finite-instance universal consistency

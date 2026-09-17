@@ -1,0 +1,5978 @@
+[
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          false
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          false
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          false
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  },
+  {
+    "clauses": [
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ],
+      [
+        [
+          0,
+          true
+        ],
+        [
+          1,
+          true
+        ],
+        [
+          2,
+          true
+        ]
+      ]
+    ],
+    "assignments": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "yes": true,
+        "witness": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "yes": false,
+        "witness": null
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "yes": false,
+        "witness": null
+      }
+    ]
+  }
+]

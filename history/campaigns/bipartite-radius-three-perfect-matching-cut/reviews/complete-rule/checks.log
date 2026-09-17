@@ -1,0 +1,8 @@
+PASS: all 512 normalized selector states and 1024 pinned variable states; exactly 3 and 2 survive
+PASS: 5 injected graphs, 8 fixed source projections, 3 exhaustive bad-projection exclusions, 18 fresh recoveries
+Malformed-source failures: [5]
+Traceback (most recent call last):
+  File "/Users/xiweipan/Codes/reduction-research/campaigns/bipartite-radius-three-perfect-matching-cut/reviews/complete-rule/checks.py", line 116, in <module>
+    assert not failures, f'Totality failed for malformed input indices {failures}; originals in process-records.json'
+           ^^^^^^^^^^^^
+AssertionError: Totality failed for malformed input indices [5]; originals in process-records.json

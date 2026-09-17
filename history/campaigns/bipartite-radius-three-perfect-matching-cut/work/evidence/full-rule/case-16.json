@@ -1,0 +1,33 @@
+{
+  "source": {
+    "n": 0,
+    "variables": [],
+    "clauses": []
+  },
+  "target": {
+    "n": 2,
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "expected": true,
+  "recoveries": [
+    {
+      "target_witness": [
+        1,
+        0
+      ],
+      "source_witness": []
+    },
+    {
+      "target_witness": [
+        0,
+        1
+      ],
+      "source_witness": []
+    }
+  ]
+}

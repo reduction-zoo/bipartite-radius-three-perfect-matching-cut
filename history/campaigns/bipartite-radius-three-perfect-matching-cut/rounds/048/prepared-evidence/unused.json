@@ -1,0 +1,43 @@
+{
+  "source": {
+    "n": 2,
+    "variables": [
+      0,
+      1
+    ],
+    "clauses": []
+  },
+  "target": {
+    "n": 2,
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "source_yes": true,
+  "target_yes": true,
+  "recoveries": [
+    {
+      "target_solution": [
+        1,
+        0
+      ],
+      "source_solution": [
+        0,
+        0
+      ]
+    },
+    {
+      "target_solution": [
+        0,
+        1
+      ],
+      "source_solution": [
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"graphs": 30, "queries": 60, "decision_mismatches": 3, "first_counterexample": {"n": 4, "edges": [[0, 3], [1, 2], [1, 3], [2, 3]], "source_yes": false, "target_yes": true, "target_witness": [0, 1, 1, 0, 1, 0, 0, 1], "connected": true, "radius": 3}}

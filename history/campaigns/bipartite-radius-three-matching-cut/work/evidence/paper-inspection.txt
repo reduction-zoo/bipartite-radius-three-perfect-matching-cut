@@ -1,0 +1,7 @@
+2026-09-15: Typst 0.15.1 compiled manuscript.typ successfully, exit 0, no diagnostics.
+Applied how-to-technical-writing to drafting and final language/notation pass.
+Inspected all seven final PDF pages as 1100-pixel PNG renders. Formula attachment
+scopes, graph labels/ports, table, code blocks, references and page boundaries checked.
+Corrected a fraction-rendered bipartition separator to an explicit slash.
+Two exact SVG figures match recorded adjacency counts; role fill is not cut color.
+Algorithm and mathematical construction were unchanged after independent review.

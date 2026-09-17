@@ -1,0 +1,2 @@
+{'graphs': 36, 'queries': 288, 'yes_assignments': 48}
+PASS: interacting and repeated signed clauses

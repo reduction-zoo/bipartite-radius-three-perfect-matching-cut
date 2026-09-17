@@ -1,0 +1,1 @@
+PASS: 15 fresh processes; original totality failure repaired, 7 invalid forward inputs -> C6, valid source/recovery behavior retained, malformed recovery fails explicitly
