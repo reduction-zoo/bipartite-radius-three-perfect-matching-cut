@@ -1,0 +1,448 @@
+[
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      0,
+      0,
+      0
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      0,
+      0,
+      1
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      0,
+      1,
+      0
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      0,
+      1,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      1,
+      0,
+      0
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      1,
+      0,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      1,
+      1,
+      0
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      true,
+      true
+    ],
+    "bits": [
+      1,
+      1,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      0,
+      0,
+      0
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      0,
+      0,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      0,
+      1,
+      0
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      0,
+      1,
+      1
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      1,
+      0,
+      0
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      1,
+      0,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      1,
+      1,
+      0
+    ],
+    "expected": true,
+    "witness": [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "signs": [
+      true,
+      false,
+      true
+    ],
+    "bits": [
+      1,
+      1,
+      1
+    ],
+    "expected": false,
+    "witness": null
+  }
+]

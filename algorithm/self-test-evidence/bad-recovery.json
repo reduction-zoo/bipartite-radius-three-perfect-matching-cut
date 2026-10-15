@@ -1,0 +1,43 @@
+{
+  "fixture": "bad-recovery",
+  "source": {
+    "n": 3,
+    "variables": [
+      0,
+      1,
+      2
+    ],
+    "clauses": [
+      [
+        0,
+        1,
+        2
+      ]
+    ]
+  },
+  "target": {
+    "n": 2,
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "source_yes": true,
+  "target_yes": true,
+  "recoveries": [
+    {
+      "target_solution": [
+        1,
+        0
+      ],
+      "source_solution": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "detected": "invalid recovered source witness"
+}

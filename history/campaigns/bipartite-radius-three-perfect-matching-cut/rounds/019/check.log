@@ -1,0 +1,2 @@
+{"graphs": 142, "solver_queries": 426, "radius_failures": 142, "maximum_target_radius": 6, "first_radius_failure": {"n": 2, "edges": [[0, 1]], "source_radius": 1, "target_radius": 4, "yes": true}}
+PASS: decisions and universal finite-instance recovery; radius contract fails

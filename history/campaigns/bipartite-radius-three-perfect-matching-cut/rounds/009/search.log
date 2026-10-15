@@ -1,0 +1,8 @@
+{"ordinary_first_layer": 2, "vertices": 10, "candidate_limit": 8, "far_count": 3, "left_ports": 2, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.052688749972730875}
+candidate graphs: 0; counterexamples: 0
+{"ordinary_first_layer": 3, "vertices": 12, "candidate_limit": 8, "far_count": 3, "left_ports": 2, "synthesis_queries": 2, "oracle_queries": 1, "status": "unsat", "elapsed_seconds": 1.234436959028244}
+candidate graphs: 1; counterexamples: 1
+{"ordinary_first_layer": 2, "vertices": 10, "candidate_limit": 8, "far_count": 3, "left_ports": 1, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.022840042132884264}
+candidate graphs: 0; counterexamples: 0
+{"ordinary_first_layer": 3, "vertices": 12, "candidate_limit": 8, "far_count": 3, "left_ports": 1, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.03856975003145635}
+candidate graphs: 0; counterexamples: 0

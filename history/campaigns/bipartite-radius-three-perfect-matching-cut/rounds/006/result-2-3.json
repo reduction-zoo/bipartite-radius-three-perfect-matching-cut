@@ -1,0 +1,12 @@
+{
+  "ordinary_first_layer": 2,
+  "vertices": 12,
+  "candidate_limit": 8,
+  "far_count": 3,
+  "synthesis_queries": 1,
+  "oracle_queries": 0,
+  "candidates": [],
+  "counterexamples": [],
+  "status": "unsat",
+  "elapsed_seconds": 0.029703541891649365
+}

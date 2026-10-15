@@ -1,0 +1,3 @@
+{"cube_isomorphic": true, "exhaustive_colorings": 256, "valid_colorings": 6, "center_zero_patterns": [[0, 1, 1], [1, 0, 1], [1, 1, 0]]}
+{"graphs": 7, "positive_queries": 42, "bad_witnesses": 6}
+PASS; author-side audit, not independent review or an UNSAT certificate

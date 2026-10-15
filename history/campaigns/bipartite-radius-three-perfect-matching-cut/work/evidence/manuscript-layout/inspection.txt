@@ -1,0 +1,11 @@
+Final manuscript: six A4 pages, native Typst, two exact SVG graph figures.
+Inspected every page after rendering; final edits preserved mathematical content.
+Checked neighborhood subscript scope, recovery indices, graph edge lists,
+one-hot premises, count formulas, captions, labels, references and appendix paths.
+Both figures are legible in grayscale and their displayed cuts pass draw.py.
+Kept theorem statements and the layer table intact across page breaks; kept the
+source disjunction setup with its equation. No clipped text or unresolved labels.
+Initial unknown Typst qquad token was corrected; compile-initial-error.log retains
+that diagnostic. Final compile.log is empty and compilation exited zero.
+The how-to-technical-writing pass preserved reviewed claims and qualifications;
+editorial changes did not trigger repeated algorithm tests.

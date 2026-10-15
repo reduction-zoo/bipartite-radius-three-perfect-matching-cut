@@ -1,0 +1,4 @@
+{"ordinary_first_layer": 1, "vertices": 16, "candidate_limit": 32, "synthesis_queries": 2, "oracle_queries": 1, "status": "unsat", "elapsed_seconds": 7.384434832958505}
+candidate graphs: 1; counterexamples: 1
+{"ordinary_first_layer": 2, "vertices": 18, "candidate_limit": 32, "synthesis_queries": 2, "oracle_queries": 1, "status": "unsat", "elapsed_seconds": 98.38621133286506}
+candidate graphs: 1; counterexamples: 1

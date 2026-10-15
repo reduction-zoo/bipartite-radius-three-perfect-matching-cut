@@ -1,0 +1,47 @@
+[
+  {
+    "variables": 1,
+    "occurrences": 1,
+    "bad": null
+  },
+  {
+    "variables": 1,
+    "occurrences": 2,
+    "bad": null
+  },
+  {
+    "variables": 1,
+    "occurrences": 4,
+    "bad": null
+  },
+  {
+    "variables": 2,
+    "occurrences": 1,
+    "bad": null
+  },
+  {
+    "variables": 2,
+    "occurrences": 2,
+    "bad": null
+  },
+  {
+    "variables": 2,
+    "occurrences": 4,
+    "bad": null
+  },
+  {
+    "variables": 3,
+    "occurrences": 1,
+    "bad": null
+  },
+  {
+    "variables": 3,
+    "occurrences": 2,
+    "bad": null
+  },
+  {
+    "variables": 3,
+    "occurrences": 4,
+    "bad": null
+  }
+]

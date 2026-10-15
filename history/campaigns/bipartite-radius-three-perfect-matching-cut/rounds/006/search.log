@@ -1,0 +1,6 @@
+{"ordinary_first_layer": 1, "vertices": 10, "candidate_limit": 8, "far_count": 3, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.03701712493784726}
+candidate graphs: 0; counterexamples: 0
+{"ordinary_first_layer": 2, "vertices": 10, "candidate_limit": 8, "far_count": 2, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.02378075011074543}
+candidate graphs: 0; counterexamples: 0
+{"ordinary_first_layer": 2, "vertices": 12, "candidate_limit": 8, "far_count": 3, "synthesis_queries": 1, "oracle_queries": 0, "status": "unsat", "elapsed_seconds": 0.029703541891649365}
+candidate graphs: 0; counterexamples: 0

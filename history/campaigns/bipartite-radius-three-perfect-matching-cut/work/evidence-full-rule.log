@@ -1,0 +1,2 @@
+{"instances": 38, "yes": 35, "no": 3, "solver_queries": 140, "recoveries": 134, "maximum_vertices": 2628}
+PASS: independent predicates, source enumeration and actual-output witness recovery

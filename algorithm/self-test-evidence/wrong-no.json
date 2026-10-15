@@ -1,0 +1,50 @@
+{
+  "fixture": "wrong-no",
+  "source": {
+    "n": 3,
+    "variables": [
+      0,
+      1,
+      2
+    ],
+    "clauses": [
+      [
+        0,
+        1,
+        2
+      ]
+    ]
+  },
+  "target": {
+    "n": 6,
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  "source_yes": true,
+  "target_yes": false,
+  "detected": "decision mismatch"
+}

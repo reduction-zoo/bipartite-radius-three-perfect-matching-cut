@@ -1,0 +1,2 @@
+{"graphs": 5, "solver_queries": 28, "bad_checks": 5}
+PASS: saved positive extensions and forbidden witnesses; no independent review or UNSAT certification

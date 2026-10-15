@@ -1,0 +1,2 @@
+{"b": 1, "f": 3, "vertices": 12, "queries": 3, "status": "unsat"}
+{"b": 2, "f": 3, "vertices": 14, "queries": 3, "status": "unsat"}

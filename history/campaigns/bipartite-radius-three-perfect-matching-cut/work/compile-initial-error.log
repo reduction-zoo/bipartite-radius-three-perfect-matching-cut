@@ -1,0 +1,9 @@
+error: unknown variable: qquad
+    ┌─ manuscript.typ:183:28
+    │
+183 │ $ T_i w_x quad "for" l_i=x, qquad T_i v_x quad "for" l_i=not x. $ <attach>
+    │                             ^^^^^
+    │
+    = hint: if you meant to display multiple letters as is, try adding spaces between each letter: `q q u a d`
+    = hint: or if you meant to display this as text, try placing it in quotes: `"qquad"`
+

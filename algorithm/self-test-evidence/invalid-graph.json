@@ -1,0 +1,24 @@
+{
+  "fixture": "invalid-graph",
+  "source": {
+    "n": 3,
+    "variables": [
+      0,
+      1,
+      2
+    ],
+    "clauses": [
+      [
+        0,
+        1,
+        2
+      ]
+    ]
+  },
+  "target": {
+    "n": 2,
+    "edges": []
+  },
+  "source_yes": true,
+  "detected": "connected target order"
+}

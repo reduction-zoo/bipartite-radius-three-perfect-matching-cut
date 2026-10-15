@@ -1,0 +1,2 @@
+{"colorings": 256, "exact_witnesses": 2, "at_most_one_terminal_witnesses": 2, "relation": [[0, 0], [1, 1]]}
+PASS: equality with zero terminal crossing budgets

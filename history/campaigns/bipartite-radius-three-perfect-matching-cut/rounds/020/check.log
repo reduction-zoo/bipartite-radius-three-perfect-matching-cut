@@ -1,0 +1,2 @@
+{"graphs": 142, "centers": 6472, "solver_queries": 0}
+PASS: distance obstruction at every checked target center

@@ -1,0 +1,2 @@
+{"pairs": 18, "queries": 54, "yes": 17}
+PASS: intermediate exact-one encoding and finite-instance universal recovery

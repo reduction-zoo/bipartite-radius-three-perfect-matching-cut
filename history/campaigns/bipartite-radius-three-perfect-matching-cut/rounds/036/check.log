@@ -1,0 +1,1 @@
+{"graphs": 205, "queries": 410, "false_positives": 18, "first": {"edges": [[0, 3], [0, 4], [0, 5], [1, 3], [1, 4], [1, 5], [2, 3]], "relaxed": true, "pmc": false, "real_witness": ["0", "0", "0", "0", "1/2", "-1/2"], "radius": 2}}
