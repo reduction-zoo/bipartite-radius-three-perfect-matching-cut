@@ -1,0 +1,3 @@
+import Challenge
+#print axioms BipartiteRadiusThreePerfectMatchingCut.Goal
+#print axioms BipartiteRadiusThreePerfectMatchingCut.solve

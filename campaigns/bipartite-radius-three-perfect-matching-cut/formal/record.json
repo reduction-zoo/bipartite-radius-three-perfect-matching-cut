@@ -1,0 +1,7 @@
+{
+  "id": "Q007",
+  "source_definition": "A source instance is a conjunction of clauses of three distinct unnegated variables. A valid assignment gives both truth values to every clause; an infeasible instance returns NO-SOLUTION.",
+  "target_definition": "Source clauses contain three distinct unnegated variables and require both truth values in each clause. The target is a connected bipartite graph of radius at most three, with exactly one opposite neighbor at every vertex in a valid nontrivial cut.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
